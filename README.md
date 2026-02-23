@@ -21,31 +21,46 @@ This project aims to build a smart and low-cost virtual fitness trainer that can
 **Tech Stack**
 
 Python
+
 OpenCV
+
 MediaPipe
+
 NumPy
+
 Computer Vision
 
 **How It Works**
 
 The webcam captures real-time video frames.
+
 MediaPipe detects 33 human body landmarks.
+
 The system calculates joint angles using geometry.
+
 Exercise movements are tracked and counted.
+
 The system detects whether the pose is correct or incorrect.
+
 Feedback is provided to help users improve posture.
 
 **Applications**
 
 Home fitness training
+
 Yoga and physiotherapy monitoring
+
 Posture correction
+
 Smart gym and health-tech systems
 
 **Future Scope**
 
-Mobile and web-based application/n
+Mobile and web-based application
+
 AI-based personalized workout plans
+
 Voice-based coaching
+
 Cloud analytics and progress tracking
 Integration with wearable devices
