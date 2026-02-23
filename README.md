@@ -1,10 +1,10 @@
 # AI-driven-virtual-Gym-Tracker
 AI-Driven Virtual Gym Tracker is a real-time computer vision-based fitness system that tracks human body posture using a webcam. The system uses MediaPipe pose estimation and OpenCV to detect body landmarks, analyze exercises, count repetitions, and detect correct poses. It helps users perform workouts accurately without the need for a physical trainer.
 
-**Project Overview**
+#**Project Overview**
 This project aims to build a smart and low-cost virtual fitness trainer that can monitor exercises such as squats, push-ups, and yoga poses in real time. It provides posture feedback and ensures correct body alignment during workouts. The system works using only a webcam and does not require any wearable devices
 
-**Features**
+#**Features**
 
 ✅ Real-time human pose detection
 ✅ Correct pose detection for exercises
@@ -13,7 +13,7 @@ This project aims to build a smart and low-cost virtual fitness trainer that can
 ✅ Joint angle calculation
 ✅ Supports gym and yoga workouts
 
-**Tech Stack**
+#**Tech Stack**
 
 Python
 OpenCV
@@ -21,7 +21,7 @@ MediaPipe
 NumPy
 Computer Vision
 
-**How It Works**
+#**How It Works**
 
 The webcam captures real-time video frames.
 MediaPipe detects 33 human body landmarks.
@@ -30,14 +30,14 @@ Exercise movements are tracked and counted.
 The system detects whether the pose is correct or incorrect.
 Feedback is provided to help users improve posture.
 
-**Applications**
+#**Applications**
 
 Home fitness training
 Yoga and physiotherapy monitoring
 Posture correction
 Smart gym and health-tech systems
 
-**Future Scope**
+#Future Scope
 
 Mobile and web-based application/n
 AI-based personalized workout plans
