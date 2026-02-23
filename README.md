@@ -7,10 +7,15 @@ This project aims to build a smart and low-cost virtual fitness trainer that can
 **Features**
 
 ✅ Real-time human pose detection
+
 ✅ Correct pose detection for exercises
+
 ✅ Exercise repetition counting
+
 ✅ Posture correction and feedback
+
 ✅ Joint angle calculation
+
 ✅ Supports gym and yoga workouts
 
 **Tech Stack**
